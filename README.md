@@ -4,6 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/ingadhoc/odoo-argentina/badges/gpa.svg)](https://codeclimate.com/github/ingadhoc/odoo-argentina)
 
 # ADHOC odoo-argentina
+editado en la version de github
 
 ADHOC Odoo odoo-argentina Modules
 
